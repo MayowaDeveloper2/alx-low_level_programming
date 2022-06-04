@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * print the code whelther the number stored in the variable n is positive or negative
+ * print the code whelther n is positive or negative
  *
  * Return: Always 0 (Success)
  */
@@ -31,3 +31,4 @@ int main(void)
 
 	return (0);
 }
+

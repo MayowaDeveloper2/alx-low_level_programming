@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * print the alpabet in lowercase
+ * print the alphabet in lowercase
  *
  * Return: Always 0 (Success)
  */

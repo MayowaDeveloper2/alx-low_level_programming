@@ -2,6 +2,7 @@
 
 /**
  * _islower - function that checks for lowercase
+ * @c: holds the value of alphabets
  * Return: Always (0) Success
  */
 int _islower(int c)

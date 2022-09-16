@@ -3,7 +3,6 @@
 /**
  * print_numbers - function that prints from 0 t0 9
  * followed by a new line
- * @c: holds the integer value
  * Return: Always (0) Success
  */
 

@@ -1,3 +1,6 @@
-[master 18aebf1] task 0
- 1 file changed, 1 insertion(+)
- create mode 100644 0x0D-preprocessor/README.md
+#ifndef _OBJECT_LIKE_MACRO_H_
+#define _OBJECT_LIKE_MACRO_H_
+
+#define SIZE 1024
+
+#endif

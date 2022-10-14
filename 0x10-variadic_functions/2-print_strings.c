@@ -8,6 +8,7 @@
  * @n: the number of strings passed to the function
  * @...: a variable number of strings to be printed
  */
+
 void print_strings(const char *separator, const unsigned int n, ...)
 {
 	va_list list;

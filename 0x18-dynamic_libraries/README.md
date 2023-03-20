@@ -1,1 +1,1 @@
-Create the dynmaic library
+dynamic library
